@@ -3,6 +3,7 @@
 A simple and clean 404 Error Page built using HTML and CSS — designed to guide users gracefully when they land on a non-existent page.
 
 
+
  🌟 Features
 - 💡 Responsive design for all devices  
 - 🛠  Clean and minimal UI
@@ -11,13 +12,16 @@ A simple and clean 404 Error Page built using HTML and CSS — designed to guide
 - 🧱 Built with HTML5 and CSS3 (no frameworks)
 
 
+
 🧱 Technologies Used
 - HTML5  
 - CSS3  
 
 
+
 🚀 Live Demo
 👉 [View Live Project](#)  <!-- Replace # with your GitHub Pages link -->
+
 
 
 💬 About
